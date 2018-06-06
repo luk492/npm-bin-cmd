@@ -1,1 +1,1 @@
-"# npm-bin-cmd" 
+run in root project folder: npm link
